@@ -10,7 +10,7 @@ Utilizando as tecnologias Flask, Bootstrap e MongoDB, o sistema oferece uma base
 - **Persistência de Dados:** Utilização do MongoDB para armazenar dados dos usuários de maneira eficiente e escalável.
 
 ## Pré-requisitos
-Antes de começar, certifique-se de ter o Python, Flask, Bootstrap e MongoDB instalados em seu ambiente de desenvolvimento.
+Antes de começar, certifique-se de ter o Python e MongoDB instalados em seu ambiente de desenvolvimento.
 
 # Instalação
 1. Clone o repositório:
