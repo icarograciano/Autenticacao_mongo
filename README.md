@@ -37,7 +37,7 @@ Antes de começar, certifique-se de ter o Python e MongoDB instalados em seu amb
 Explore e experimente as funcionalidades de autenticação, autorização e criptografia implementadas neste projeto.
 
 ## Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões, relatórios de bugs ou contribuições, siga estas etapas:
+Contribuições são bem-vindas! Se você tiver sugestões, relatórios de bugs ou contribuições, abra uma issues ou siga estas etapas:
 1. Fork o projeto
 2. Crie um novo branch (`git checkout -b feature/nome-da-sua-feature`)
 3. Faça alterações e as commit (`git commit -am 'Adicione sua feature'`)
